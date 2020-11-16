@@ -50,6 +50,12 @@
 		4DD67D9C2559809000E0F2E5 /* KGUpgradeProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD67D9B2559809000E0F2E5 /* KGUpgradeProfileViewController.swift */; };
 		4DE36E18255A543600C74A52 /* KGCleaningServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DE36E17255A543600C74A52 /* KGCleaningServiceViewController.swift */; };
 		4DE36E1A255A77D900C74A52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DE36E19255A77D900C74A52 /* Assets.xcassets */; };
+		4DEB0B2325628618007A5E88 /* ServiceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DEB0B2225628618007A5E88 /* ServiceManager.swift */; };
+		4DEB0B282562881E007A5E88 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DEB0B272562881E007A5E88 /* Constants.swift */; };
+		4DEB0B2A256288F8007A5E88 /* ApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DEB0B29256288F8007A5E88 /* ApiService.swift */; };
+		4DEB0B2C256290C4007A5E88 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4DEB0B2B256290C4007A5E88 /* GoogleService-Info.plist */; };
+		4DEB0B302562BE7B007A5E88 /* SendEnquiresBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DEB0B2F2562BE7B007A5E88 /* SendEnquiresBase.swift */; };
+		4DEB0B322562DA9F007A5E88 /* KGPhoneNumberViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DEB0B312562DA9F007A5E88 /* KGPhoneNumberViewController.swift */; };
 		4DFB50B4255C2AB900A8273D /* KGSubDescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DFB50B3255C2AB900A8273D /* KGSubDescriptionViewController.swift */; };
 		4DFB50B6255C42E400A8273D /* KGEnquiryFormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DFB50B5255C42E400A8273D /* KGEnquiryFormViewController.swift */; };
 		5E7DB278C568931A2258158F /* Pods_KazemaGlobalTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B236FB147F3D000C98543F44 /* Pods_KazemaGlobalTests.framework */; };
@@ -125,6 +131,13 @@
 		4DD67D9B2559809000E0F2E5 /* KGUpgradeProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KGUpgradeProfileViewController.swift; sourceTree = "<group>"; };
 		4DE36E17255A543600C74A52 /* KGCleaningServiceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KGCleaningServiceViewController.swift; sourceTree = "<group>"; };
 		4DE36E19255A77D900C74A52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4DEB0B2225628618007A5E88 /* ServiceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceManager.swift; sourceTree = "<group>"; };
+		4DEB0B272562881E007A5E88 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		4DEB0B29256288F8007A5E88 /* ApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiService.swift; sourceTree = "<group>"; };
+		4DEB0B2B256290C4007A5E88 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		4DEB0B2D25629BD9007A5E88 /* KazemaGlobal.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = KazemaGlobal.entitlements; sourceTree = "<group>"; };
+		4DEB0B2F2562BE7B007A5E88 /* SendEnquiresBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SendEnquiresBase.swift; path = ../../../../../../Downloads/codegen_5fb2787bc9e43/SendEnquiresBase.swift; sourceTree = "<group>"; };
+		4DEB0B312562DA9F007A5E88 /* KGPhoneNumberViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KGPhoneNumberViewController.swift; sourceTree = "<group>"; };
 		4DFB50B3255C2AB900A8273D /* KGSubDescriptionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KGSubDescriptionViewController.swift; sourceTree = "<group>"; };
 		4DFB50B5255C42E400A8273D /* KGEnquiryFormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KGEnquiryFormViewController.swift; sourceTree = "<group>"; };
 		5B63C0B700A5E28D97E3AEF2 /* Pods_KazemaGlobal.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KazemaGlobal.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -190,6 +203,7 @@
 				4DFB50B5255C42E400A8273D /* KGEnquiryFormViewController.swift */,
 				4D1B60B4255D03210028F5D7 /* KGKleanSubDescriptionTableViewController.swift */,
 				4D5AB7FB255D696300AC4B45 /* KGReviewViewController.swift */,
+				4DEB0B312562DA9F007A5E88 /* KGPhoneNumberViewController.swift */,
 			);
 			path = HomePage;
 			sourceTree = "<group>";
@@ -219,6 +233,7 @@
 		4DD1C42B255502F6002FAFE7 /* KazemaGlobal */ = {
 			isa = PBXGroup;
 			children = (
+				4DEB0B2D25629BD9007A5E88 /* KazemaGlobal.entitlements */,
 				4DD1C462255537FF002FAFE7 /* MVC */,
 				4DD1C4612555170D002FAFE7 /* ImageAssets */,
 				4DD1C460255516F5002FAFE7 /* LaunchScreen */,
@@ -275,6 +290,9 @@
 		4DD1C462255537FF002FAFE7 /* MVC */ = {
 			isa = PBXGroup;
 			children = (
+				4DEB0B2E2562BDB6007A5E88 /* Model */,
+				4DEB0B2B256290C4007A5E88 /* GoogleService-Info.plist */,
+				4DEB0B242562861D007A5E88 /* ServiceManager */,
 				4DD1C47125556182002FAFE7 /* Supporting Files */,
 				4DD1C46C25554832002FAFE7 /* CustomClass */,
 				4DD1C4642555382D002FAFE7 /* Controller */,
@@ -322,6 +340,8 @@
 		4DD1C47125556182002FAFE7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4DEB0B29256288F8007A5E88 /* ApiService.swift */,
+				4DEB0B272562881E007A5E88 /* Constants.swift */,
 				4DD1C499255577EC002FAFE7 /* Extensions.swift */,
 				4DD1C49B25559190002FAFE7 /* ColumnFlowLayout.swift */,
 				4DD1C472255561AA002FAFE7 /* Poppins */,
@@ -373,6 +393,23 @@
 				4D5D8938255ADF9100C9109E /* KGKazemaMaintenanceServiceViewController.swift */,
 			);
 			path = SideMenuControllers;
+			sourceTree = "<group>";
+		};
+		4DEB0B242562861D007A5E88 /* ServiceManager */ = {
+			isa = PBXGroup;
+			children = (
+				4DEB0B2225628618007A5E88 /* ServiceManager.swift */,
+			);
+			path = ServiceManager;
+			sourceTree = "<group>";
+		};
+		4DEB0B2E2562BDB6007A5E88 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4DEB0B2F2562BE7B007A5E88 /* SendEnquiresBase.swift */,
+			);
+			name = Model;
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 		C91AC09A829166CE00399E35 /* Pods */ = {
@@ -515,6 +552,7 @@
 				4DD1C491255561AB002FAFE7 /* Poppins-Regular.ttf in Resources */,
 				4DD1C48D255561AB002FAFE7 /* Poppins-ExtraBoldItalic.ttf in Resources */,
 				4DD1C493255561AB002FAFE7 /* Poppins-Bold.ttf in Resources */,
+				4DEB0B2C256290C4007A5E88 /* GoogleService-Info.plist in Resources */,
 				4DD1C487255561AB002FAFE7 /* Poppins-ThinItalic.ttf in Resources */,
 				4DD1C48B255561AB002FAFE7 /* Poppins-Medium.ttf in Resources */,
 				4DD1C434255502F6002FAFE7 /* Main.storyboard in Resources */,
@@ -629,13 +667,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DD67D9C2559809000E0F2E5 /* KGUpgradeProfileViewController.swift in Sources */,
+				4DEB0B282562881E007A5E88 /* Constants.swift in Sources */,
 				4DD1C46925553CDB002FAFE7 /* KGHomeCollectionViewCell.swift in Sources */,
+				4DEB0B322562DA9F007A5E88 /* KGPhoneNumberViewController.swift in Sources */,
 				4D7C4812255BBF4E00C59F28 /* KGDescriptionPageViewController.swift in Sources */,
 				4DD67D9A2559019000E0F2E5 /* KGSideMenuTableViewController.swift in Sources */,
 				4DD1C46E255548BF002FAFE7 /* CustomClass.swift in Sources */,
+				4DEB0B2325628618007A5E88 /* ServiceManager.swift in Sources */,
 				4DFB50B4255C2AB900A8273D /* KGSubDescriptionViewController.swift in Sources */,
 				4D5AB7FC255D696300AC4B45 /* KGReviewViewController.swift in Sources */,
 				4DFB50B6255C42E400A8273D /* KGEnquiryFormViewController.swift in Sources */,
+				4DEB0B302562BE7B007A5E88 /* SendEnquiresBase.swift in Sources */,
 				4D5D8937255ABE3100C9109E /* KGNotificationTableViewCell.swift in Sources */,
 				4DD1C46B25553EE0002FAFE7 /* KGHomePageTableViewController.swift in Sources */,
 				4DD1C42D255502F6002FAFE7 /* AppDelegate.swift in Sources */,
@@ -644,6 +686,7 @@
 				4D5D8930255AB33100C9109E /* KGNotificationViewController.swift in Sources */,
 				4DE36E18255A543600C74A52 /* KGCleaningServiceViewController.swift in Sources */,
 				4D5D8939255ADF9100C9109E /* KGKazemaMaintenanceServiceViewController.swift in Sources */,
+				4DEB0B2A256288F8007A5E88 /* ApiService.swift in Sources */,
 				4DD67D952558FF8700E0F2E5 /* KGHomeNavigationViewController.swift in Sources */,
 				4DD1C49C25559190002FAFE7 /* ColumnFlowLayout.swift in Sources */,
 				4DD1C437255502F6002FAFE7 /* KazemaGlobal.xcdatamodeld in Sources */,
@@ -821,6 +864,7 @@
 			baseConfigurationReference = 980FA176FAC009924FE0C144 /* Pods-KazemaGlobal.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = KazemaGlobal/KazemaGlobal.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 23D9P95352;
@@ -842,6 +886,7 @@
 			baseConfigurationReference = 04B973EA098B03BDA9594C47 /* Pods-KazemaGlobal.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = KazemaGlobal/KazemaGlobal.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 23D9P95352;

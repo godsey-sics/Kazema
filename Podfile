@@ -7,6 +7,10 @@ target 'KazemaGlobal' do
 
   # Pods for KazemaGlobal
 pod 'MFSideMenu'
+pod 'Alamofire', '~> 4.7'
+pod 'Firebase/Analytics'
+pod 'Firebase/Core'
+pod 'Firebase/Messaging'
   target 'KazemaGlobalTests' do
     inherit! :search_paths
     # Pods for testing

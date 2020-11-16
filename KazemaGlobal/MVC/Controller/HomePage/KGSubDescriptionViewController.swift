@@ -17,4 +17,8 @@ class KGSubDescriptionViewController: UIViewController {
         descriptionTextView.text = descriptionString
     }
     
+    @IBAction func registerButtonAction(_ sender: CustomButton) {
+        let maintenancePageVC = self.storyboard?.instantiateViewController(withIdentifier: "KGPhoneNumberViewController") as!  KGPhoneNumberViewController
+             self.navigationController?.pushViewController(maintenancePageVC, animated: true)
+    }
 }
