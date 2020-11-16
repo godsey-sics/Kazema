@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KazemaGlobal.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>7C1B59F2B8D7798D9C151C33AE1D754E2474D79E</string>
+				<key>dateExpires</key>
+				<string>22/10/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>23D9P95352.com.sics.kazemaglobal</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>23D9P95352</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>23D9P95352.com.sics.kazemaglobal</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>KazemaGlobal.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7ac5dc35-2665-49dc-9498-f49bbaef6702</string>
+				<key>name</key>
+				<string>KazemaGlobalDevelopment</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>23D9P95352</string>
+				<key>name</key>
+				<string>KRISHNADAS PISHARAM</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
