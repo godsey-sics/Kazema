@@ -1,0 +1,312 @@
+
+/* Class = "UILabel"; text = "Kitchen Hoods Cleaning services"; ObjectID = "00T-bx-UsJ"; */
+"00T-bx-UsJ.text" = "Kitchen Hoods Cleaning services";
+
+/* Class = "UIButton"; normalTitle = "View all"; ObjectID = "083-lm-UGa"; */
+"083-lm-UGa.normalTitle" = "View all";
+
+/* Class = "UILabel"; text = "1000*"; ObjectID = "0JM-SA-1Sd"; */
+"0JM-SA-1Sd.text" = "1000*";
+
+/* Class = "UILabel"; text = "SERVICE TICKET NUMBER:"; ObjectID = "0Lr-IQ-ZfU"; */
+"0Lr-IQ-ZfU.text" = "SERVICE TICKET NUMBER:";
+
+/* Class = "UILabel"; text = "Special notes if any"; ObjectID = "0RW-WF-ZCt"; */
+"0RW-WF-ZCt.text" = "Special notes if any";
+
+/* Class = "UITextField"; placeholder = "Enter your phone number"; ObjectID = "1FU-jd-gxQ"; */
+"1FU-jd-gxQ.placeholder" = "Enter your phone number";
+
+/* Class = "UILabel"; text = "Welcome "; ObjectID = "2fU-Tb-u33"; */
+"2fU-Tb-u33.text" = "Welcome ";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "2wg-6x-QX1"; */
+"2wg-6x-QX1.text" = "Expiry Date";
+
+/* Class = "UILabel"; text = "31 December 2020"; ObjectID = "3RY-RG-yle"; */
+"3RY-RG-yle.text" = "31 December 2020";
+
+/* Class = "UILabel"; text = "Cockroaches"; ObjectID = "534-9y-RAS"; */
+"534-9y-RAS.text" = "Cockroaches";
+
+/* Class = "UILabel"; text = "Pest Control Services"; ObjectID = "54e-Hd-x7g"; */
+"54e-Hd-x7g.text" = "Pest Control Services";
+
+/* Class = "UILabel"; text = "31 December 2020"; ObjectID = "5be-tP-Be9"; */
+"5be-tP-Be9.text" = "31 December 2020";
+
+/* Class = "UITextView"; text = "*Please mention the service ticket number while escalations required. You can reach us 24/7 by calling 1832111"; ObjectID = "6FK-ST-zpc"; */
+"6FK-ST-zpc.text" = "*Please mention the service ticket number while escalations required. You can reach us 24/7 by calling 1832111";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "6Zq-2f-Ip1"; */
+"6Zq-2f-Ip1.text" = "Welcome";
+
+/* Class = "UILabel"; text = "Marble Grinding & Polishing services"; ObjectID = "87x-Rn-aho"; */
+"87x-Rn-aho.text" = "Marble Grinding & Polishing services";
+
+/* Class = "UILabel"; text = "1234567"; ObjectID = "8Df-VM-D4m"; */
+"8Df-VM-D4m.text" = "1234567";
+
+/* Class = "UILabel"; text = "Contracts with parts (WPO)"; ObjectID = "8Om-X9-lvl"; */
+"8Om-X9-lvl.text" = "Contracts with parts (WPO)";
+
+/* Class = "UILabel"; text = "PROFILE AND SETTINGS"; ObjectID = "8xG-2H-LEB"; */
+"8xG-2H-LEB.text" = "PROFILE AND SETTINGS";
+
+/* Class = "UILabel"; text = "Labor only contracts without parts."; ObjectID = "AbS-b9-hSz"; */
+"AbS-b9-hSz.text" = "Labor only contracts without parts.";
+
+/* Class = "UITextView"; text = "Your Ticket No:ABC has been closed from our customer service.If you haven't received the service then please contact us in 8********"; ObjectID = "Agj-HR-tI2"; */
+"Agj-HR-tI2.text" = "Your Ticket No:ABC has been closed from our customer service.If you haven't received the service then please contact us in 8********";
+
+/* Class = "UITextField"; placeholder = "Enter otp"; ObjectID = "AhY-2r-tvT"; */
+"AhY-2r-tvT.placeholder" = "Enter otp";
+
+/* Class = "UILabel"; text = "Please Enter the OTP below"; ObjectID = "BNA-g4-EVH"; */
+"BNA-g4-EVH.text" = "Please Enter the OTP below";
+
+/* Class = "UILabel"; text = "REQUEST PREVENTIVE MAINTENANCE"; ObjectID = "BRG-RA-un9"; */
+"BRG-RA-un9.text" = "REQUEST PREVENTIVE MAINTENANCE";
+
+/* Class = "UILabel"; text = "Hi"; ObjectID = "CHY-tT-Ff2"; */
+"CHY-tT-Ff2.text" = "Hi";
+
+/* Class = "UIButton"; normalTitle = "Enquiry Form"; ObjectID = "D66-Iw-FYK"; */
+"D66-Iw-FYK.normalTitle" = "Enquiry Form";
+
+/* Class = "UIButton"; normalTitle = "Description"; ObjectID = "Dvr-0l-pyL"; */
+"Dvr-0l-pyL.normalTitle" = "Description";
+
+/* Class = "UILabel"; text = "00 -005"; ObjectID = "E6H-Jr-vp0"; */
+"E6H-Jr-vp0.text" = "00 -005";
+
+/* Class = "UILabel"; text = "Request Preventive Maintenance"; ObjectID = "EQb-oH-XGY"; */
+"EQb-oH-XGY.text" = "Request Preventive Maintenance";
+
+/* Class = "UILabel"; text = "Contract No"; ObjectID = "Ecl-Du-NTk"; */
+"Ecl-Du-NTk.text" = "Contract No";
+
+/* Class = "UILabel"; text = "123456"; ObjectID = "Eqj-iA-dBb"; */
+"Eqj-iA-dBb.text" = "123456";
+
+/* Class = "UILabel"; text = "KLEAN RITE"; ObjectID = "F2T-9y-czP"; */
+"F2T-9y-czP.text" = "KLEAN RITE";
+
+/* Class = "UILabel"; text = "Currently ...... No Notification Avaliable.."; ObjectID = "FG6-pr-PRx"; */
+"FG6-pr-PRx.text" = "Currently ...... No Notification Avaliable..";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "FMo-iw-Oq7"; */
+"FMo-iw-Oq7.text" = "Login";
+
+/* Class = "UILabel"; text = "Labour only contract (LO)"; ObjectID = "FYy-Jb-klU"; */
+"FYy-Jb-klU.text" = "Labour only contract (LO)";
+
+/* Class = "UILabel"; text = "Monisha"; ObjectID = "Fzp-Bh-qOl"; */
+"Fzp-Bh-qOl.text" = "Monisha";
+
+/* Class = "UILabel"; text = "31 December 2020"; ObjectID = "GMc-0f-cji"; */
+"GMc-0f-cji.text" = "31 December 2020";
+
+/* Class = "UILabel"; text = "Invoices"; ObjectID = "JLG-6W-XeF"; */
+"JLG-6W-XeF.text" = "Invoices";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "JY9-3X-bg2"; */
+"JY9-3X-bg2.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "By Kazema Maiintenance"; ObjectID = "Jwt-V8-QLm"; */
+"Jwt-V8-QLm.text" = "By Kazema Maiintenance";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "KUT-fd-7s6"; */
+"KUT-fd-7s6.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "31 December 2020"; ObjectID = "KpY-Ul-NRY"; */
+"KpY-Ul-NRY.text" = "31 December 2020";
+
+/* Class = "UILabel"; text = "Saturday to Thursday 8:00AM - 8:00 PM"; ObjectID = "Ln4-nH-iSp"; */
+"Ln4-nH-iSp.text" = "Saturday to Thursday 8:00AM - 8:00 PM";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "Mio-0G-6Nm"; */
+"Mio-0G-6Nm.text" = "Expiry Date";
+
+/* Class = "UILabel"; text = "Air Conditioning Duct Cleaning Service"; ObjectID = "Nvf-kM-I0q"; */
+"Nvf-kM-I0q.text" = "Air Conditioning Duct Cleaning Service";
+
+/* Class = "UILabel"; text = "Type : Professional Cleaning            Services"; ObjectID = "O5u-mg-tJK"; */
+"O5u-mg-tJK.text" = "Type : Professional Cleaning            Services";
+
+/* Class = "UITextField"; placeholder = "Enter your user name"; ObjectID = "OVE-1S-5Te"; */
+"OVE-1S-5Te.placeholder" = "Enter your user name";
+
+/* Class = "UILabel"; text = "1:30PM - 2:30PM"; ObjectID = "OVL-Xi-sCa"; */
+"OVL-Xi-sCa.text" = "1:30PM - 2:30PM";
+
+/* Class = "UILabel"; text = "CLEANING SERVICES"; ObjectID = "OdI-q9-qvJ"; */
+"OdI-q9-qvJ.text" = "CLEANING SERVICES";
+
+/* Class = "UILabel"; text = "Closed!"; ObjectID = "PLs-sf-Jw2"; */
+"PLs-sf-Jw2.text" = "Closed!";
+
+/* Class = "UILabel"; text = "Martin Steward"; ObjectID = "Q6S-6v-aa2"; */
+"Q6S-6v-aa2.text" = "Martin Steward";
+
+/* Class = "UILabel"; text = "KAZEMA MAINTENANCE"; ObjectID = "QDw-0h-6bR"; */
+"QDw-0h-6bR.text" = "KAZEMA MAINTENANCE";
+
+/* Class = "UILabel"; text = "31 December 2020"; ObjectID = "QMk-1d-REt"; */
+"QMk-1d-REt.text" = "31 December 2020";
+
+/* Class = "UILabel"; text = "Rodents"; ObjectID = "RLg-Pa-iIr"; */
+"RLg-Pa-iIr.text" = "Rodents";
+
+/* Class = "UILabel"; text = "VIEW CONTRACT DETAILS"; ObjectID = "RUw-HH-71c"; */
+"RUw-HH-71c.text" = "VIEW CONTRACT DETAILS";
+
+/* Class = "UILabel"; text = "KMS - 01 - AL JAHAR -BLDG#01 "; ObjectID = "SJp-a9-uZN"; */
+"SJp-a9-uZN.text" = "KMS - 01 - AL JAHAR -BLDG#01 ";
+
+/* Class = "UITextField"; text = "xx@gmail.com"; ObjectID = "U7r-54-H33"; */
+"U7r-54-H33.text" = "xx@gmail.com";
+
+/* Class = "UITextView"; text = "contracts"; ObjectID = "UdS-lb-n1u"; */
+"UdS-lb-n1u.text" = "contracts";
+
+/* Class = "UITextField"; placeholder = "Enter your Email"; ObjectID = "VBO-ap-H9u"; */
+"VBO-ap-H9u.placeholder" = "Enter your Email";
+
+/* Class = "UILabel"; text = "Customer Name :"; ObjectID = "VXi-Nn-lH0"; */
+"VXi-Nn-lH0.text" = "Customer Name :";
+
+/* Class = "UILabel"; text = "Pests"; ObjectID = "XmT-KQ-Uez"; */
+"XmT-KQ-Uez.text" = "Pests";
+
+/* Class = "UILabel"; text = "We terminate all type of :"; ObjectID = "YAf-6A-mG4"; */
+"YAf-6A-mG4.text" = "We terminate all type of :";
+
+/* Class = "UILabel"; text = "MAINTENANCE SERVICES"; ObjectID = "ZgT-LT-1vM"; */
+"ZgT-LT-1vM.text" = "MAINTENANCE SERVICES";
+
+/* Class = "UITextView"; text = "Dear Ahammad , we hacve received your request for preventive maintenance and as per the instructons , we schedule maintenance activities"; ObjectID = "ZhH-ZM-NX7"; */
+"ZhH-ZM-NX7.text" = "Dear Ahammad , we hacve received your request for preventive maintenance and as per the instructons , we schedule maintenance activities";
+
+/* Class = "UILabel"; text = "Type: Contract Maintenance"; ObjectID = "a1e-bX-Rwe"; */
+"a1e-bX-Rwe.text" = "Type: Contract Maintenance";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "apa-SI-L29"; */
+"apa-SI-L29.text" = "Expiry Date";
+
+/* Class = "UILabel"; text = "Customer Name :"; ObjectID = "bjw-Pr-9pG"; */
+"bjw-Pr-9pG.text" = "Customer Name :";
+
+/* Class = "UILabel"; text = "00-005"; ObjectID = "clR-cS-KIM"; */
+"clR-cS-KIM.text" = "00-005";
+
+/* Class = "UITextView"; text = "please select one of the contracts from the below listed & you can view details and request for various services those are associated with chosen contract"; ObjectID = "evP-Dv-zYS"; */
+"evP-Dv-zYS.text" = "please select one of the contracts from the below listed & you can view details and request for various services those are associated with chosen contract";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "fbM-f7-CtY"; */
+"fbM-f7-CtY.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Klean Rite Services"; ObjectID = "hmm-KU-HMQ"; */
+"hmm-KU-HMQ.text" = "Klean Rite Services";
+
+/* Class = "UILabel"; text = "LOGOUT"; ObjectID = "iSi-dO-dys"; */
+"iSi-dO-dys.text" = "LOGOUT";
+
+/* Class = "UILabel"; text = "31 December 2020"; ObjectID = "izO-rP-Shi"; */
+"izO-rP-Shi.text" = "31 December 2020";
+
+/* Class = "UILabel"; text = "KMS - 01 - AL JAHAR -BLDG#01 "; ObjectID = "j7T-gs-1oe"; */
+"j7T-gs-1oe.text" = "KMS - 01 - AL JAHAR -BLDG#01 ";
+
+/* Class = "UILabel"; text = "Contracts with parts and compressors(WPC)"; ObjectID = "jH3-O5-jq1"; */
+"jH3-O5-jq1.text" = "Contracts with parts and compressors(WPC)";
+
+/* Class = "UIButton"; normalTitle = "+956"; ObjectID = "jeE-NB-Tib"; */
+"jeE-NB-Tib.normalTitle" = "+956";
+
+/* Class = "UILabel"; text = "NOTIFICATIONS"; ObjectID = "knj-Fh-JVa"; */
+"knj-Fh-JVa.text" = "NOTIFICATIONS";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "knw-da-ZHe"; */
+"knw-da-ZHe.text" = "Expiry Date";
+
+/* Class = "UILabel"; text = "Carpet Cleaning  services"; ObjectID = "lZr-QC-3Pb"; */
+"lZr-QC-3Pb.text" = "Carpet Cleaning  services";
+
+/* Class = "UILabel"; text = "00-005"; ObjectID = "lbI-st-r0V"; */
+"lbI-st-r0V.text" = "00-005";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "llV-Vg-Uts"; */
+"llV-Vg-Uts.text" = "Version 1.0";
+
+/* Class = "UILabel"; text = "Building External Cleaning  services"; ObjectID = "mY7-W6-QFo"; */
+"mY7-W6-QFo.text" = "Building External Cleaning  services";
+
+/* Class = "UITextView"; text = "contracts"; ObjectID = "mYk-P5-bUm"; */
+"mYk-P5-bUm.text" = "contracts";
+
+/* Class = "UITextField"; placeholder = "Enter your Valid  Phone Number"; ObjectID = "n26-3e-rv7"; */
+"n26-3e-rv7.placeholder" = "Enter your Valid  Phone Number";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "oIR-nF-WpZ"; */
+"oIR-nF-WpZ.text" = "Expiry Date";
+
+/* Class = "UILabel"; text = "Note"; ObjectID = "ozT-FH-K79"; */
+"ozT-FH-K79.text" = "Note";
+
+/* Class = "UILabel"; text = "HOME"; ObjectID = "q6j-wI-hfC"; */
+"q6j-wI-hfC.text" = "HOME";
+
+/* Class = "UILabel"; text = "Kazema Maintenance Service W.L.L"; ObjectID = "q8u-4C-lLP"; */
+"q8u-4C-lLP.text" = "Kazema Maintenance Service W.L.L";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "q9N-re-GQh"; */
+"q9N-re-GQh.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "CONTRACTS"; ObjectID = "qof-Cb-ZT4"; */
+"qof-Cb-ZT4.text" = "CONTRACTS";
+
+/* Class = "UITextView"; text = " we need your service team to schedule the maintenance on friday.Please call Ahamad to confirm"; ObjectID = "sbj-Cb-k8b"; */
+"sbj-Cb-k8b.text" = " we need your service team to schedule the maintenance on friday.Please call Ahamad to confirm";
+
+/* Class = "UILabel"; text = "Confirmation"; ObjectID = "sgy-Zh-h7M"; */
+"sgy-Zh-h7M.text" = "Confirmation";
+
+/* Class = "UILabel"; text = "Invoices Number"; ObjectID = "suA-91-BRR"; */
+"suA-91-BRR.text" = "Invoices Number";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "t8v-Ev-H6l"; */
+"t8v-Ev-H6l.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Currently , No Contracts avaliable"; ObjectID = "tOW-Hi-fuj"; */
+"tOW-Hi-fuj.text" = "Currently , No Contracts avaliable";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "th0-wD-rOn"; */
+"th0-wD-rOn.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Contracts with parts and compressors (WPC)"; ObjectID = "tlN-5h-okn"; */
+"tlN-5h-okn.text" = "Contracts with parts and compressors (WPC)";
+
+/* Class = "UILabel"; text = "KMS - 01 - AL JAHAR -BLDG#01 "; ObjectID = "up7-31-vYd"; */
+"up7-31-vYd.text" = "KMS - 01 - AL JAHAR -BLDG#01 ";
+
+/* Class = "UILabel"; text = "Chandelier Cleaning  services"; ObjectID = "wII-lf-tsm"; */
+"wII-lf-tsm.text" = "Chandelier Cleaning  services";
+
+/* Class = "UILabel"; text = "Please select any of the  below options to proceed"; ObjectID = "wYV-R5-AMU"; */
+"wYV-R5-AMU.text" = "Please select any of the  below options to proceed";
+
+/* Class = "UIButton"; normalTitle = "View all"; ObjectID = "xm4-pG-xmI"; */
+"xm4-pG-xmI.normalTitle" = "View all";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "xtT-eI-4gw"; */
+"xtT-eI-4gw.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "May I ask your phone number?"; ObjectID = "xxS-4Z-Vcg"; */
+"xxS-4Z-Vcg.text" = "May I ask your phone number?";
+
+/* Class = "UILabel"; text = "Invoice Due"; ObjectID = "yd8-u1-scZ"; */
+"yd8-u1-scZ.text" = "Invoice Due";
+
+/* Class = "UILabel"; text = "Labor only contract (LO)"; ObjectID = "z9d-aS-XmE"; */
+"z9d-aS-XmE.text" = "Labor only contract (LO)";
